@@ -1,0 +1,5 @@
+Для фотографии использовать тип колонки DataGridViewImageColumn
+Чтобы фото вписывалось в ячейку, в свойствах ImageLayout поставить Zoom
+Для переноса текста по нескольким строкам, открыть DefaultCellStyle, установить WrapMode на true
+Для увеличения высоты строки, увеличить высоту в свойстве RowTemplate
+ЧТобы убрать заголовки строк и столбцов, выключить RowHeadersVisible и ColumnHeadersVisible
